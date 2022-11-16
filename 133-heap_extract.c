@@ -77,4 +77,3 @@ int heap_extract(heap_t **root)
 	recurse_extract(*root);
 	return (value);
 }
-
